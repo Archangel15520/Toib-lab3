@@ -48,16 +48,16 @@
 
 ![image](https://github.com/Archangel15520/Toib-lab3/blob/main/Screenshot/3.1.JPG)
 
-![image]()
+![image](https://github.com/Archangel15520/Toib-lab3/blob/main/Screenshot/15.JPG)
 
 # Запускаем metasploit
 
 ![image](https://github.com/Archangel15520/Toib-lab3/blob/main/Screenshot/3.2.JPG)
 
-![image]()
+![image](https://github.com/Archangel15520/Toib-lab3/blob/main/Screenshot/16.JPG)
 
 # Анализ трафика с помощью Wireshark
 
-![image]()
+![image](https://github.com/Archangel15520/Toib-lab3/blob/main/Screenshot/17.JPG)
 
-![image]()
+![image](https://github.com/Archangel15520/Toib-lab3/blob/main/Screenshot/18.JPG)
