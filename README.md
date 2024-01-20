@@ -24,31 +24,35 @@
 
 ![image](https://github.com/Archangel15520/Toib-lab3/blob/main/Screenshot/5.JPG)
 
-![image]()
+![image](https://github.com/Archangel15520/Toib-lab3/blob/main/Screenshot/6.JPG)
 
+![image](https://github.com/Archangel15520/Toib-lab3/blob/main/Screenshot/7.JPG)
 
-# Устанавливаем и запускаем burpsuite
+### 3. Пентестинг Веб-приложений
+#### Тестирование веб-приложений на DVL, используя инструменты перехвата и анализа трафика
 
-![image]()
+![](https://github.com/Archangel15520/Toib-lab3/blob/main/Screenshot/8.JPG)
 
-![image]()
+![](https://github.com/Archangel15520/Toib-lab3/blob/main/Screenshot/9.1.png)
 
-![image]()
+#### Выявление уязвимостей веб-приложений, таких как SQL-инъекции, XSS (Cross-Site Scripting), CSRF (Cross-Site Request Forgery)
 
-![image]()
+![](https://github.com/Archangel15520/Toib-lab3/blob/main/Screenshot/10.png)
 
-![image]()
+![](https://github.com/Archangel15520/Toib-lab3/blob/main/Screenshot/13.JPG)
+
+![](https://github.com/Archangel15520/Toib-lab3/blob/main/Screenshot/14.JPG)
 
 
 # Установим OWASP ZAP
 
-![image]()
+![image](https://github.com/Archangel15520/Toib-lab3/blob/main/Screenshot/3.1.JPG)
 
 ![image]()
 
 # Запускаем metasploit
 
-![image]()
+![image](https://github.com/Archangel15520/Toib-lab3/blob/main/Screenshot/3.2.JPG)
 
 ![image]()
 
